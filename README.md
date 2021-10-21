@@ -21,7 +21,7 @@ export履歴を家具の位置を変更するたびにgitに記録するのが�
 2. jupiter_lizard_kagu_export_data.txtに書いてある文字列を削除<br>
 3. 某所でコピーした文字列をに貼りけて保存<br>
 おまけ この操作をターミナルで操作する場合は ディレクトリを移動して 次のコマンド打てok<br>
-$ echo '某所でコピーした文字列' | > jupiter_lizard_kagu_export_data.txt<br>
+$ echo '某所でコピーした文字列'  > jupiter_lizard_kagu_export_data.txt<br>
 <br>
 * ここからgitの操作<br>
 1. cd ディレクトリ名<br>
